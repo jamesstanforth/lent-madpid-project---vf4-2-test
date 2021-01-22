@@ -1,2 +1,3 @@
 scene.setBackgroundColor(9)
-effects.confetti.startScreenEffect()
+effects.smiles.startScreenEffect()
+music.baDing.play()
